@@ -13,12 +13,7 @@ height:100%;
 overflow: scroll;
 }
 
-/*body{
-    background-image: url('../images/img10.jpg');
-    height: 100vh;
-    background-size: cover;
-    background-position: center;*/
-}
+
  .login-page{
      width: 360px;
      padding: 10% 0 0;
