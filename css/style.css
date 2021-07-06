@@ -12,6 +12,12 @@ body {
 height:100%;
 overflow: scroll;
 }
+.text{
+    text-align: center;
+    color: #43A047;
+    size: 45px;
+    padding-top: 34px;
+}
 
 
  .login-page{
